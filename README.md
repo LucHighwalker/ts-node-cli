@@ -1,0 +1,1 @@
+A simple command line tool to clone my [ts-node-starter](https://github.com/LucHighwalker/ts-node-starter).
