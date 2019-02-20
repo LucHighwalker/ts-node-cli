@@ -1,0 +1,29 @@
+{
+  "name": "ts-node-cli",
+  "version": "0.0.1",
+  "description": "A simple CLI to get a typescript node server up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tsns": "./cli.js"
+  },
+  "keywords": [
+    "cli",
+    "typescript",
+    "node",
+    "starter",
+    "nodejs",
+    "authentication",
+    "auth",
+    "verification",
+    "email",
+    "verify"
+  ],
+  "author": "LucHighwalker",
+  "license": "ISC",
+  "dependencies": {
+    "git-clone": "^0.1.0"
+  }
+}
